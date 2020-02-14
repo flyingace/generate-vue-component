@@ -28,7 +28,7 @@ yo vue-component
 ```
 and answer the questions when prompted and the generator should add the following files and directories inside of the `components` directory:
 ```
-component-name
+kebabComponentName
 |— pascalComponentName.ts
 |— pascalComponentName.vue
 |— pascalComponentName.scss

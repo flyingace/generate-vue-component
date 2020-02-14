@@ -1,0 +1,25 @@
+{
+  "name": "generator-vue-component",
+  "version": "1.0.0",
+  "description": "Generator for creating Vue components with related files for the Polaris project.",
+  "author": {
+    "name": "flyingace",
+    "email": "dc@davidcameron.biz"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "Vue",
+    "Yeoman",
+    "Generator",
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "lodash": "^4.17.15",
+    "yeoman-generator": "^1.0.0",
+    "yosay": "^2.0.2"
+  }
+}
